@@ -1,0 +1,7 @@
+C:\Users\Bob\source\repos\isFirstEqualToSecond\isFirstEqualToSecond\bin\Debug\isFirstEqualToSecond.exe.config
+C:\Users\Bob\source\repos\isFirstEqualToSecond\isFirstEqualToSecond\bin\Debug\isFirstEqualToSecond.exe
+C:\Users\Bob\source\repos\isFirstEqualToSecond\isFirstEqualToSecond\bin\Debug\isFirstEqualToSecond.pdb
+C:\Users\Bob\source\repos\isFirstEqualToSecond\isFirstEqualToSecond\obj\Debug\isFirstEqualToSecond.csprojAssemblyReference.cache
+C:\Users\Bob\source\repos\isFirstEqualToSecond\isFirstEqualToSecond\obj\Debug\isFirstEqualToSecond.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\isFirstEqualToSecond\isFirstEqualToSecond\obj\Debug\isFirstEqualToSecond.exe
+C:\Users\Bob\source\repos\isFirstEqualToSecond\isFirstEqualToSecond\obj\Debug\isFirstEqualToSecond.pdb
